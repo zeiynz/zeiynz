@@ -10,5 +10,5 @@ I am fascinated by building intuitive, user-friendly interfaces for large-scale,
 Outside of work, I'm interested in following the developments of science. I also play a lot of video games and make content. 
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" width="85"/>](https://medium.com/@zeiyn)
+[<img alt="Medium" src="https://img.shields.io/badge/Figma-%23000000.svg?&style=for-the-badge&logo=Figma&logoColor=white" width="95" />](https://www.figma.com/@zeiyn)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" width="95" />](https://linkedin.com/in/zeiyn)
