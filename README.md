@@ -5,7 +5,7 @@ I'm **Zain**, a software engineer based in East Java, Indonesia.
 I work with the React ecosystem, focusing on building smooth and intuitive user experiences.  
 I recently graduated from [**@Bangkit Academy**](https://grow.google/intl/id_id/bangkit/). 🚀
 
-Outside of tech, I’m into science, gaming, and creating content with purpose.
+When I’m not coding, I spend time exploring science, playing games, or creating content for fun. I’m also interested in business.
 
 ---
 
