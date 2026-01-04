@@ -13,4 +13,4 @@ I’m also interested in business.
 📬 Let’s connect!  
 
 [<img alt="Figma" src="https://img.shields.io/badge/Figma-%23000000.svg?&style=for-the-badge&logo=Figma&logoColor=white" width="95" />](https://www.figma.com/@zeiyn)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" width="95" />](https://linkedin.com/in/zeiyn)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23000000.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" width="95" />](https://linkedin.com/in/zeiyn)
