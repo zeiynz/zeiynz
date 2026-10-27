@@ -3,7 +3,7 @@
 I'm **Zain**, a software engineer based in East Java, Indonesia. 
 
 A [**@Bangkit Academy**](https://grow.google/intl/id_id/bangkit/) '24 alum, 
-currently building and leading [**@clyveai**](https://www.instagram.com/clyveai) as Founder & CEO. 🚀
+currently building and leading [**@clyveai**](https://www.linkedin.com/company/clyveai/) as Founder & CEO. 🚀
 
 When I’m not coding, I spend time exploring science, playing games, or creating content for fun.
 
